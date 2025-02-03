@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: acbe4876891440847a5c24433b88e3df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3424196453619417053
+    second: MS-DOS - Heroes of Might and Magic II - Genie_0
+  - first:
+      213: -2030555413055298572
+    second: MS-DOS - Heroes of Might and Magic II - Genie_1
+  - first:
+      213: 6032073887198135335
+    second: MS-DOS - Heroes of Might and Magic II - Genie_2
+  - first:
+      213: -363304738018150825
+    second: MS-DOS - Heroes of Might and Magic II - Genie_3
+  - first:
+      213: -6067247724645438774
+    second: MS-DOS - Heroes of Might and Magic II - Genie_4
+  - first:
+      213: -8994979958267397443
+    second: MS-DOS - Heroes of Might and Magic II - Genie_5
+  - first:
+      213: -8745585025452058836
+    second: MS-DOS - Heroes of Might and Magic II - Genie_6
+  - first:
+      213: -209178732337874752
+    second: MS-DOS - Heroes of Might and Magic II - Genie_7
+  - first:
+      213: 644365491386807394
+    second: MS-DOS - Heroes of Might and Magic II - Genie_8
+  - first:
+      213: 663922274661828329
+    second: MS-DOS - Heroes of Might and Magic II - Genie_9
+  - first:
+      213: 7608143356073471607
+    second: MS-DOS - Heroes of Might and Magic II - Genie_10
+  - first:
+      213: 5894140025087460771
+    second: MS-DOS - Heroes of Might and Magic II - Genie_11
+  - first:
+      213: -473728340481835669
+    second: MS-DOS - Heroes of Might and Magic II - Genie_12
+  - first:
+      213: -8502906334334918355
+    second: MS-DOS - Heroes of Might and Magic II - Genie_13
+  - first:
+      213: -8575132627639246346
+    second: MS-DOS - Heroes of Might and Magic II - Genie_14
+  - first:
+      213: 6606517199420060429
+    second: MS-DOS - Heroes of Might and Magic II - Genie_15
+  - first:
+      213: -6109852948703910368
+    second: MS-DOS - Heroes of Might and Magic II - Genie_16
+  - first:
+      213: 1655322322697466667
+    second: MS-DOS - Heroes of Might and Magic II - Genie_17
+  - first:
+      213: 3251557997216823838
+    second: MS-DOS - Heroes of Might and Magic II - Genie_18
+  - first:
+      213: -5763666400429856155
+    second: MS-DOS - Heroes of Might and Magic II - Genie_19
+  - first:
+      213: 2174384314345117546
+    second: MS-DOS - Heroes of Might and Magic II - Genie_20
+  - first:
+      213: -7723200551683802084
+    second: MS-DOS - Heroes of Might and Magic II - Genie_21
+  - first:
+      213: -3240208579478762842
+    second: MS-DOS - Heroes of Might and Magic II - Genie_22
+  - first:
+      213: -4162915252103849697
+    second: MS-DOS - Heroes of Might and Magic II - Genie_23
+  - first:
+      213: -4543994395361334457
+    second: MS-DOS - Heroes of Might and Magic II - Genie_24
+  - first:
+      213: 7396686194875667404
+    second: MS-DOS - Heroes of Might and Magic II - Genie_25
+  - first:
+      213: 7502281366533987905
+    second: MS-DOS - Heroes of Might and Magic II - Genie_26
+  - first:
+      213: 1170756034494982964
+    second: MS-DOS - Heroes of Might and Magic II - Genie_27
+  - first:
+      213: -5202032770405017898
+    second: MS-DOS - Heroes of Might and Magic II - Genie_28
+  - first:
+      213: -4514857432964880508
+    second: MS-DOS - Heroes of Might and Magic II - Genie_29
+  - first:
+      213: 1294091714572364831
+    second: MS-DOS - Heroes of Might and Magic II - Genie_30
+  - first:
+      213: -274955111295376358
+    second: MS-DOS - Heroes of Might and Magic II - Genie_31
+  - first:
+      213: -6799251523019393233
+    second: MS-DOS - Heroes of Might and Magic II - Genie_32
+  - first:
+      213: 4644818988593262723
+    second: MS-DOS - Heroes of Might and Magic II - Genie_33
+  - first:
+      213: -4748286174909198383
+    second: MS-DOS - Heroes of Might and Magic II - Genie_34
+  - first:
+      213: 6423055822576981239
+    second: MS-DOS - Heroes of Might and Magic II - Genie_35
+  - first:
+      213: 7859155034381258036
+    second: MS-DOS - Heroes of Might and Magic II - Genie_36
+  - first:
+      213: -4857831409426775154
+    second: MS-DOS - Heroes of Might and Magic II - Genie_37
+  - first:
+      213: 3581519960129636310
+    second: MS-DOS - Heroes of Might and Magic II - Genie_38
+  - first:
+      213: -6986616963900300180
+    second: MS-DOS - Heroes of Might and Magic II - Genie_39
+  - first:
+      213: -1976264518867024815
+    second: MS-DOS - Heroes of Might and Magic II - Genie_40
+  - first:
+      213: 8382100872784500746
+    second: MS-DOS - Heroes of Might and Magic II - Genie_41
+  - first:
+      213: 4822827506428770613
+    second: MS-DOS - Heroes of Might and Magic II - Genie_42
+  - first:
+      213: 2829647929247070620
+    second: MS-DOS - Heroes of Might and Magic II - Genie_43
+  - first:
+      213: -1818587917807660038
+    second: MS-DOS - Heroes of Might and Magic II - Genie_44
+  - first:
+      213: -5141132713703671607
+    second: MS-DOS - Heroes of Might and Magic II - Genie_45
+  - first:
+      213: 1324180182050948541
+    second: MS-DOS - Heroes of Might and Magic II - Genie_46
+  - first:
+      213: -8265021028771529483
+    second: MS-DOS - Heroes of Might and Magic II - Genie_47
+  - first:
+      213: -596311229223068800
+    second: MS-DOS - Heroes of Might and Magic II - Genie_48
+  - first:
+      213: 430311117720582921
+    second: MS-DOS - Heroes of Might and Magic II - Genie_49
+  - first:
+      213: 5934020404282037371
+    second: MS-DOS - Heroes of Might and Magic II - Genie_50
+  - first:
+      213: -6961377025625197496
+    second: MS-DOS - Heroes of Might and Magic II - Genie_51
+  - first:
+      213: 3248931783954662890
+    second: MS-DOS - Heroes of Might and Magic II - Genie_52
+  - first:
+      213: 8114396603762391413
+    second: MS-DOS - Heroes of Might and Magic II - Genie_53
+  - first:
+      213: 8785800426128399690
+    second: MS-DOS - Heroes of Might and Magic II - Genie_54
+  - first:
+      213: 2032820447805044088
+    second: MS-DOS - Heroes of Might and Magic II - Genie_55
+  - first:
+      213: -8230111826458742795
+    second: MS-DOS - Heroes of Might and Magic II - Genie_56
+  - first:
+      213: -7403302840766599795
+    second: MS-DOS - Heroes of Might and Magic II - Genie_57
+  - first:
+      213: 2777210263259858208
+    second: MS-DOS - Heroes of Might and Magic II - Genie_58
+  - first:
+      213: -2340340349814998735
+    second: MS-DOS - Heroes of Might and Magic II - Genie_59
+  - first:
+      213: 7572085111571185051
+    second: MS-DOS - Heroes of Might and Magic II - Genie_60
+  - first:
+      213: -858402068873636034
+    second: MS-DOS - Heroes of Might and Magic II - Genie_61
+  - first:
+      213: -7000300063522845922
+    second: MS-DOS - Heroes of Might and Magic II - Genie_62
+  - first:
+      213: 6365263455073361075
+    second: MS-DOS - Heroes of Might and Magic II - Genie_63
+  - first:
+      213: -5468833030807694912
+    second: MS-DOS - Heroes of Might and Magic II - Genie_64
+  - first:
+      213: 4103101581232397776
+    second: MS-DOS - Heroes of Might and Magic II - Genie_65
+  - first:
+      213: -2800051498078759938
+    second: MS-DOS - Heroes of Might and Magic II - Genie_66
+  - first:
+      213: 1511514413234562749
+    second: MS-DOS - Heroes of Might and Magic II - Genie_67
+  - first:
+      213: -8165025336189648515
+    second: MS-DOS - Heroes of Might and Magic II - Genie_68
+  - first:
+      213: -2300356104038749239
+    second: MS-DOS - Heroes of Might and Magic II - Genie_69
+  - first:
+      213: -855810836909755056
+    second: MS-DOS - Heroes of Might and Magic II - Genie_70
+  - first:
+      213: -8418532398204335946
+    second: MS-DOS - Heroes of Might and Magic II - Genie_71
+  - first:
+      213: 5840421459992214430
+    second: MS-DOS - Heroes of Might and Magic II - Genie_72
+  - first:
+      213: 5570724050230707777
+    second: MS-DOS - Heroes of Might and Magic II - Genie_73
+  - first:
+      213: -3929732245761267756
+    second: MS-DOS - Heroes of Might and Magic II - Genie_74
+  - first:
+      213: -1419595767635269247
+    second: MS-DOS - Heroes of Might and Magic II - Genie_75
+  - first:
+      213: 3905460143565175336
+    second: MS-DOS - Heroes of Might and Magic II - Genie_76
+  - first:
+      213: 4306967165074462553
+    second: MS-DOS - Heroes of Might and Magic II - Genie_77
+  - first:
+      213: 6068872499959499892
+    second: MS-DOS - Heroes of Might and Magic II - Genie_78
+  - first:
+      213: 775372985071799446
+    second: MS-DOS - Heroes of Might and Magic II - Genie_79
+  - first:
+      213: 1250894237257482912
+    second: MS-DOS - Heroes of Might and Magic II - Genie_80
+  - first:
+      213: -2100658380586149121
+    second: MS-DOS - Heroes of Might and Magic II - Genie_81
+  - first:
+      213: 4279397491789754963
+    second: MS-DOS - Heroes of Might and Magic II - Genie_82
+  - first:
+      213: 1321273950839585025
+    second: MS-DOS - Heroes of Might and Magic II - Genie_83
+  - first:
+      213: 6036766779374904740
+    second: MS-DOS - Heroes of Might and Magic II - Genie_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ccd4b77fca70d0800000000000000
+      internalID: -3424196453619417053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3a7143c9402d3e0800000000000000
+      internalID: -2030555413055298572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ca59bd3b36b350800000000000000
+      internalID: 6032073887198135335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7563631044845faf0800000000000000
+      internalID: -363304738018150825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2630175ecccba0800000000000000
+      internalID: -6067247724645438774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab6b9a2696b2380800000000000000
+      internalID: -8994979958267397443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2754f461c071a680800000000000000
+      internalID: -8745585025452058836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83f6c1d09d81df0800000000000000
+      internalID: -209178732337874752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 598
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26471ab100f31f800800000000000000
+      internalID: 644365491386807394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 499
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e600bb8ac9b63900800000000000000
+      internalID: 663922274661828329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 516
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee10b921e859960800000000000000
+      internalID: 7608143356073471607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 499
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a500c3df113cc150800000000000000
+      internalID: 5894140025087460771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 518
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7b81959afc69f0800000000000000
+      internalID: -473728340481835669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 500
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d216c8f3dbb9ff980800000000000000
+      internalID: -8502906334334918355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 517
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f163b3ee420ff880800000000000000
+      internalID: -8575132627639246346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 500
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03f0f9d3601fab50800000000000000
+      internalID: 6606517199420060429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 517
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02661a25d11753ba0800000000000000
+      internalID: -6109852948703910368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 500
+        width: 73
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233829d1e2e8f610800000000000000
+      internalID: 1655322322697466667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 398
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a70be55cadf1d20800000000000000
+      internalID: 3251557997216823838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 397
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a268e22f75300b0800000000000000
+      internalID: -5763666400429856155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 397
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d8b57307fc2e10800000000000000
+      internalID: 2174384314345117546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 398
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c39cb740ea1d490800000000000000
+      internalID: -7723200551683802084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 398
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aacefdd6777803d0800000000000000
+      internalID: -3240208579478762842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 420
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f195b4062aa5a36c0800000000000000
+      internalID: -4162915252103849697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 398
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b2f1b2c2d70f0c0800000000000000
+      internalID: -4543994395361334457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 401
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc39998a7ee46a660800000000000000
+      internalID: 7396686194875667404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 418
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5a4177257d1860800000000000000
+      internalID: 7502281366533987905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 443
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be7b2196c5f3010800000000000000
+      internalID: 1170756034494982964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 403
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d65112c1caaec7b0800000000000000
+      internalID: -5202032770405017898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 298
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a890e5110851c0800000000000000
+      internalID: -4514857432964880508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 297
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cacd9de8985f110800000000000000
+      internalID: 1294091714572364831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 297
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14af0678c92f2cf0800000000000000
+      internalID: -274955111295376358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 278
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2735e783c434a1a0800000000000000
+      internalID: -6799251523019393233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 318
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3803715c246b57040800000000000000
+      internalID: 4644818988593262723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 337
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df83a4a1e2ba1eb0800000000000000
+      internalID: -4748286174909198383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 274
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f494356d37432950800000000000000
+      internalID: 6423055822576981239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 314
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d840b3dd3511d60800000000000000
+      internalID: 7859155034381258036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_37
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 333
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c16e2214859cb0800000000000000
+      internalID: -4857831409426775154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d78f739d6d14b130800000000000000
+      internalID: 3581519960129636310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 170
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64210553ec8a0f90800000000000000
+      internalID: -6986616963900300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 170
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15409ba04e5e294e0800000000000000
+      internalID: -1976264518867024815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 170
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08dfc16554335470800000000000000
+      internalID: 8382100872784500746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5397bad80102ee240800000000000000
+      internalID: 4822827506428770613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 240
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f03eaccde44720800000000000000
+      internalID: 2829647929247070620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 237
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d14e8ce313c6e0800000000000000
+      internalID: -1818587917807660038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 231
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c87d88290707a8b0800000000000000
+      internalID: -5141132713703671607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 169
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db542c91cde606210800000000000000
+      internalID: 1324180182050948541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 245
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc70fe0a2fbc4d80800000000000000
+      internalID: -8265021028771529483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 242
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b159ea81a79b7f0800000000000000
+      internalID: -596311229223068800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 236
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bf2a28ea5c8f500800000000000000
+      internalID: 430311117720582921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 226
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74962f2e10e95250800000000000000
+      internalID: 5934020404282037371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 214
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8447b086a78346f90800000000000000
+      internalID: -6961377025625197496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 231
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae508127e36861d20800000000000000
+      internalID: 3248931783954662890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 209
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579b4ed18b02c9070800000000000000
+      internalID: 8114396603762391413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 195
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ddbda30fe6de970800000000000000
+      internalID: 8785800426128399690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 195
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875f19b4d67063c10800000000000000
+      internalID: 2032820447805044088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff6f2a16e4c8cd80800000000000000
+      internalID: -8230111826458742795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 189
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d677b6a4f224990800000000000000
+      internalID: -7403302840766599795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0254c282502aa8620800000000000000
+      internalID: 2777210263259858208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13973cbf9d0758fd0800000000000000
+      internalID: -2340340349814998735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d79345a43751960800000000000000
+      internalID: 7572085111571185051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 76
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37935acdd75614f0800000000000000
+      internalID: -858402068873636034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_62
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 144
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b83907e20f9de90800000000000000
+      internalID: -7000300063522845922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 75
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc5c654365f55850800000000000000
+      internalID: 6365263455073361075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d8c6655dca14b0800000000000000
+      internalID: -5468833030807694912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 75
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd53b2262521f830800000000000000
+      internalID: 4103101581232397776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_66
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 109
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef317307ff73429d0800000000000000
+      internalID: -2800051498078759938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6aab9b95af9f410800000000000000
+      internalID: 1511514413234562749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 75
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d710a5687b000be80800000000000000
+      internalID: -8165025336189648515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 75
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb6ed9af4e7310e0800000000000000
+      internalID: -2300356104038749239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_70
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055701ff39c8f14f0800000000000000
+      internalID: -855810836909755056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 25
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c9ea136d5b2b80800000000000000
+      internalID: -8418532398204335946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b776dbf585d0150800000000000000
+      internalID: 5840421459992214430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 25
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460abb32003f4d40800000000000000
+      internalID: 5570724050230707777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 25
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d76005d759c679c0800000000000000
+      internalID: -3929732245761267756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_75
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 25
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a371bb259c4ce0800000000000000
+      internalID: -1419595767635269247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 24
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af5adfe4bf23630800000000000000
+      internalID: 3905460143565175336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_77
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957d88d31db65cb30800000000000000
+      internalID: 4306967165074462553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_78
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 24
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c093b6267f83450800000000000000
+      internalID: 6068872499959499892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 30
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c83af2f9da2ca00800000000000000
+      internalID: 775372985071799446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 30
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2c0576ea11c5110800000000000000
+      internalID: 1250894237257482912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 29
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa17b62556f8d2e0800000000000000
+      internalID: -2100658380586149121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35273d67859736b30800000000000000
+      internalID: 4279397491789754963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 29
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10935ca68ab165210800000000000000
+      internalID: 1321273950839585025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Genie_84
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52584d667e6c350800000000000000
+      internalID: 6036766779374904740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

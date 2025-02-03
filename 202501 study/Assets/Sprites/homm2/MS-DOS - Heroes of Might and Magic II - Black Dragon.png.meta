@@ -1,0 +1,1993 @@
+fileFormatVersion: 2
+guid: e8178f7a5b103c44f97bf5039d3a5b09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7663077158549986850
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_0
+  - first:
+      213: -8889325694900265724
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_1
+  - first:
+      213: 9114337074503724829
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_2
+  - first:
+      213: 1864019513500049250
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_3
+  - first:
+      213: -4715300669291825848
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_4
+  - first:
+      213: -4880889883271856508
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_5
+  - first:
+      213: -2912762895071740120
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_6
+  - first:
+      213: -2290689662249182192
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_7
+  - first:
+      213: -9063403244931054955
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_8
+  - first:
+      213: -6332086082978764047
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_9
+  - first:
+      213: -6223624185040327821
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_10
+  - first:
+      213: -2126566363785375770
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_11
+  - first:
+      213: 6483466398710644686
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_12
+  - first:
+      213: 1630272611289738063
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_13
+  - first:
+      213: -8430416311901636789
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_14
+  - first:
+      213: -6666776272032612899
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_15
+  - first:
+      213: -8946852685978467325
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_16
+  - first:
+      213: 3975024473569557676
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_17
+  - first:
+      213: 1488970754923966386
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_18
+  - first:
+      213: 1695094319848071068
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_19
+  - first:
+      213: 7158765635709669250
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_20
+  - first:
+      213: 5050492635336106883
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_21
+  - first:
+      213: -8631516760309792966
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_22
+  - first:
+      213: 6159269888835840959
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_23
+  - first:
+      213: 1751153928482140070
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_24
+  - first:
+      213: -8462499843304145490
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_25
+  - first:
+      213: 5363726556523299941
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_26
+  - first:
+      213: -5176284654620188352
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_27
+  - first:
+      213: -4529046392798867412
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_28
+  - first:
+      213: -8193259038676441940
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_29
+  - first:
+      213: 8028568751620825752
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_30
+  - first:
+      213: 7424109076647293653
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_31
+  - first:
+      213: 4148692868724489673
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_32
+  - first:
+      213: 8719435935234891826
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_33
+  - first:
+      213: -7993360179036662619
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_34
+  - first:
+      213: -4838568672886980915
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_35
+  - first:
+      213: 1611657794926552363
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_36
+  - first:
+      213: -3139225759949184859
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_37
+  - first:
+      213: -2839337592841188422
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_38
+  - first:
+      213: 1733180621162341378
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_39
+  - first:
+      213: -1298073596364992275
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_40
+  - first:
+      213: 2384452982856550283
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_41
+  - first:
+      213: 7127967122355834142
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_42
+  - first:
+      213: -7485157456619490798
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_43
+  - first:
+      213: -541045990519141169
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_44
+  - first:
+      213: 3760811055031742809
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_45
+  - first:
+      213: 7132185262607924868
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_46
+  - first:
+      213: 4842727649755434328
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_47
+  - first:
+      213: 8856290159750326563
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_48
+  - first:
+      213: -2860498965117926422
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_49
+  - first:
+      213: -1339364562003829403
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_50
+  - first:
+      213: 4330201122148146519
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_51
+  - first:
+      213: -4768586783436797462
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_52
+  - first:
+      213: 3959088684797125757
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_53
+  - first:
+      213: -2965767564760003107
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_54
+  - first:
+      213: -8855653982371418740
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_55
+  - first:
+      213: -8040125659968114911
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_56
+  - first:
+      213: 3286000739964401334
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_57
+  - first:
+      213: 911955203654786423
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_58
+  - first:
+      213: 6475096656625489461
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_59
+  - first:
+      213: -464092467024082004
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_60
+  - first:
+      213: -5399548121785471167
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_61
+  - first:
+      213: -4223847487287388810
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_62
+  - first:
+      213: 3266806673226070954
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_63
+  - first:
+      213: 8839983800152028125
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_64
+  - first:
+      213: 8679630394913515932
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_65
+  - first:
+      213: 5616472555162488066
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_66
+  - first:
+      213: -5391975712886593030
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_67
+  - first:
+      213: 9159138541255371660
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_68
+  - first:
+      213: -220360978730997554
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_69
+  - first:
+      213: -6058973202699269630
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_70
+  - first:
+      213: 8685352924279088786
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_71
+  - first:
+      213: -9039874756482555132
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_72
+  - first:
+      213: -8840268501834240075
+    second: MS-DOS - Heroes of Might and Magic II - Black Dragon_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 755
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e73ecce747a590800000000000000
+      internalID: -7663077158549986850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 755
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d97bec065c2a480800000000000000
+      internalID: -8889325694900265724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 755
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa7f88741ac7e70800000000000000
+      internalID: 9114337074503724829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 755
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f119c1fd35ed910800000000000000
+      internalID: 1864019513500049250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 755
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f2b52603ef8eb0800000000000000
+      internalID: -4715300669291825848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 755
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e78cfd288934cb0800000000000000
+      internalID: -4880889883271856508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 755
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f7f445499c397d0800000000000000
+      internalID: -2912762895071740120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 755
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c5af683e5d530e0800000000000000
+      internalID: -2290689662249182192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 755
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59203c9c4c2583280800000000000000
+      internalID: -9063403244931054955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 755
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa2bd0a149ef18a0800000000000000
+      internalID: -6332086082978764047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 830
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b242327ce31a9a0800000000000000
+      internalID: -6223624185040327821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 755
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef474fb82bec72e0800000000000000
+      internalID: -2126566363785375770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 836
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3458b656e9f950800000000000000
+      internalID: 6483466398710644686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 755
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b29fa6d44ef9610800000000000000
+      internalID: 1630272611289738063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 845
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b174d705210b80800000000000000
+      internalID: -8430416311901636789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 755
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd3e7c7d4ada73a0800000000000000
+      internalID: -6666776272032612899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 755
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304018272e466d380800000000000000
+      internalID: -8946852685978467325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 616
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacf898b2bf1a2730800000000000000
+      internalID: 3975024473569557676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 616
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf20304303e9a410800000000000000
+      internalID: 1488970754923966386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 615
+        width: 173
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f935b8d4f268710800000000000000
+      internalID: 1695094319848071068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 616
+        width: 175
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f8fbaba6b095360800000000000000
+      internalID: 7158765635709669250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 642
+        width: 193
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3836fed0b44f61640800000000000000
+      internalID: 5050492635336106883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 627
+        width: 174
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f77ecfc31b63880800000000000000
+      internalID: -8631516760309792966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 616
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe1d7a45f1a7550800000000000000
+      internalID: 6159269888835840959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 617
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af253e48395d4810800000000000000
+      internalID: 1751153928482140070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 617
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadbe009a392f8a80800000000000000
+      internalID: -8462499843304145490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 518
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56486e982e8cf6a40800000000000000
+      internalID: 5363726556523299941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 517
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041ee0128842a28b0800000000000000
+      internalID: -5176284654620188352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 517
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2095f93d489521c0800000000000000
+      internalID: -4529046392798867412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 518
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4aee66052bb4e80800000000000000
+      internalID: -8193259038676441940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 517
+        width: 132
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892292f0eb43b6f60800000000000000
+      internalID: 8028568751620825752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 483
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b05fdedbb70760800000000000000
+      internalID: 7424109076647293653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 400
+        width: 219
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdf482fe2e139930800000000000000
+      internalID: 4148692868724489673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 486
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230a37919c8a10970800000000000000
+      internalID: 8719435935234891826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 400
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a454ce8441e11190800000000000000
+      internalID: -7993360179036662619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 400
+        width: 166
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcefc378d63f9dcb0800000000000000
+      internalID: -4838568672886980915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 198
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25261eb932cd5610800000000000000
+      internalID: 1611657794926552363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 400
+        width: 141
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0297cbdca3f64d0800000000000000
+      internalID: -3139225759949184859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 478
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc945b085a898d0800000000000000
+      internalID: -2839337592841188422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 400
+        width: 143
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e8f7979e7d0810800000000000000
+      internalID: 1733180621162341378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 400
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d95c01f05cfde0800000000000000
+      internalID: -1298073596364992275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 278
+        width: 171
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8709c2ca57471120800000000000000
+      internalID: 2384452982856550283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 278
+        width: 199
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dceaa0550abe260800000000000000
+      internalID: 7127967122355834142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 278
+        width: 149
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212345683f06f1890800000000000000
+      internalID: -7485157456619490798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 286
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc05f7c981dd78f0800000000000000
+      internalID: -541045990519141169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951778a9ab5113430800000000000000
+      internalID: 3760811055031742809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 278
+        width: 188
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e750a55bc9af260800000000000000
+      internalID: 7132185262607924868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 278
+        width: 244
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d82abb323d43340800000000000000
+      internalID: 4842727649755434328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 278
+        width: 163
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a4b74afcd7ea70800000000000000
+      internalID: 8856290159750326563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 278
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae306c7c8577d48d0800000000000000
+      internalID: -2860498965117926422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dd301f60f996de0800000000000000
+      internalID: -1339364562003829403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 123
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d53ab6af6f71c30800000000000000
+      internalID: 4330201122148146519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 124
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae980a4e59392ddb0800000000000000
+      internalID: -4768586783436797462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 130
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e993ce2281f630800000000000000
+      internalID: 3959088684797125757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 68
+        width: 171
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddca18fc1a77d6d0800000000000000
+      internalID: -2965767564760003107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 158
+        width: 142
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6afe4f956a1580800000000000000
+      internalID: -8855653982371418740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 158
+        width: 119
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe8188f4cbb6090800000000000000
+      internalID: -8040125659968114911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 158
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6bf3553483a9d20800000000000000
+      internalID: 3286000739964401334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 158
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d99ec0d6ae7ac00800000000000000
+      internalID: 911955203654786423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5365b784a1a2cd950800000000000000
+      internalID: 6475096656625489461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab48103c563f89f0800000000000000
+      internalID: -464092467024082004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f695d5793f015b0800000000000000
+      internalID: -5399548121785471167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751fc6d611e165c0800000000000000
+      internalID: -4223847487287388810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 13
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabf38b6c57065d20800000000000000
+      internalID: 3266806673226070954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 11
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3f4441e6eedaa70800000000000000
+      internalID: 8839983800152028125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 11
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e0868bdd347870800000000000000
+      internalID: 8679630394913515932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 11
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dc0351808b1fd40800000000000000
+      internalID: 5616472555162488066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 11
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af96cd338aadb25b0800000000000000
+      internalID: -5391975712886593030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 11
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bad10e9fbcb1f70800000000000000
+      internalID: 9159138541255371660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 11
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8a16c7bde11fcf0800000000000000
+      internalID: -220360978730997554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 11
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20acf7559f33aeba0800000000000000
+      internalID: -6058973202699269630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 12
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2962e88b772988870800000000000000
+      internalID: 8685352924279088786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 20
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40326d5edc9eb8280800000000000000
+      internalID: -9039874756482555132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Black Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6815a2ae015580800000000000000
+      internalID: -8840268501834240075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
